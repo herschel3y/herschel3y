@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herschel3y
 - 👀 I’m interested in Data.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning as a Software Enginner
 - 💞️ I’m looking to collaborate on business prediction project.
 - 📫 How to reach me 
 
